@@ -19,3 +19,5 @@ We mentioned above that HTML is a __markup__ language. That means it tells the b
 Think about it this way: if our web page is a robot, the HTML is the metal body, CSS is the coating of paint on top of the body and JavaScript is what makes the robot limbs move. Different technologies, but we need them all to make fully dynamic websites and web apps.
 
 Now that we’ve introduced HTML, let’s dig into it a little more and see how it actually works in the next lesson.
+
+Auto redeploy test: Tracy was here.
