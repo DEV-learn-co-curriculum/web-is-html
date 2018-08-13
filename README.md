@@ -20,4 +20,4 @@ Think about it this way: if our web page is a robot, the HTML is the metal body,
 
 Now that we’ve introduced HTML, let’s dig into it a little more and see how it actually works in the next lesson.
 
-Auto redeploy test: Tracy was here.
+Auto redeploy test: Tracy was here, v2.
